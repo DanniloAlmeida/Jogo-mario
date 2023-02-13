@@ -17,8 +17,9 @@ Bonus:
 
 
 ==========================================
-O desenvolvimento desse projeto partiu do vídeo feito no Youtube do canal Manual do Dev. Mas foi aprimorado seguindo meu proprio conhecimento.
 
-Créditos do projeto: https://www.youtube.com/watch?v=r9buAwVBDhA&t=1327s
+Projeto feito para aprimoramento dos estudos acompanhando o canal Darlan Araujo https://www.youtube.com/watch?v=FobMpZIFgfg&list=PLCNFRvVK1LVNXTnaPo6MReEwq75VA9WB5
 
+
+Dannilo Almeida
 
